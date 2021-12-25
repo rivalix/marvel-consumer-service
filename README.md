@@ -1,6 +1,6 @@
 ### PRUEBA TÉCNICA PARA DESARROLLADOR BACKEND SR
 
-###### Crear una API que suministre la siguiente información de Marvel.
+#### Crear una API que suministre la siguiente información de Marvel.
 
 - [ ] ...
 - [x] Mostrar listas de comic completas.
