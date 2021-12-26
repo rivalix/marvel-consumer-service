@@ -15,8 +15,8 @@ import java.util.Date;
 @Service
 @AllArgsConstructor
 public class MarvelService {
-    private static final String PUBLIC_KEY = "c902abeaff6e47853f2539567b4b8f58";
-	private static final String PRIVATE_KEY = "a63a2f4855a83402d7d9253bed003ad1a3d1b441";
+    private static final String PUBLIC_KEY = "";
+	private static final String PRIVATE_KEY = "";
 
 	private MarvelClient client;
 
